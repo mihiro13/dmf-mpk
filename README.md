@@ -5,7 +5,7 @@ A levilamina mod for minecraft bedrock parkour
 ## Installation
 
 1. Download and install [LeviLauncher](https://github.com/LiteLDev/LeviLauncher/releases) ([installation guide](https://www.youtube.com/watch?v=Y6wD0sHRYwo))
-3. Download the latest release from [Releases](https://github.com/mihiro13/dmf-mpk/releases)
+3. Download `dmf-mpk.zip` of the latest release from [Releases](https://github.com/mihiro13/dmf-mpk/releases)
 4. Extract the zip file
 5. Copy the `dmf-mpk` folder to `mods`
 
